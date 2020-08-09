@@ -1,4 +1,5 @@
 <h1 align="center"> Hello, I'm Akshara Hegde 👋 </h1>
+
 - I'm a coder with 5+ years of experience in fronend, backend, testing and hosting tools and technologies.
 
 - Connect with me on Linkedin  [Linkedin Profile](https://www.linkedin.com/in/aksharadt/)
