@@ -32,7 +32,7 @@ I'm a coder with 6+ years of experience in fronend, backend, testing, hosting  a
 
 
 <br>
-
+<br>
 
 ### Backend
 
@@ -48,11 +48,13 @@ I'm a coder with 6+ years of experience in fronend, backend, testing, hosting  a
 
 
 <br>
+<br>
 
 ### Testing
 
 <img align="left" alt="Jinja" src="https://img.shields.io/badge/-selenium-%2343B02A?style=for-the-badge&logo=selenium&logoColor=%23FFFFFF" />
 
+<br>
 <br>
 
 ### Content Management System
@@ -61,12 +63,14 @@ I'm a coder with 6+ years of experience in fronend, backend, testing, hosting  a
 <img align="left" alt="storyblok" src="https://img.shields.io/badge/-storyblok-%2309B3AF?style=for-the-badge&logo=storyblok&logoColor=%23FFFFFF" />
 
 <br>
+<br>
 
 ### Databases
 <img align="left" alt="mysql" src="https://img.shields.io/badge/-mysql-%234479A1?style=for-the-badge&logo=MySQL&logoColor=%23FFFFFF" />
 
 <img align="left" alt="postgresql" src="https://img.shields.io/badge/-postgresql-%234169E1?style=for-the-badge&logo=postgresql&logoColor=%23FFFFFF" />
 
+<br>
 <br>
 
 ### Hosting
@@ -77,6 +81,7 @@ I'm a coder with 6+ years of experience in fronend, backend, testing, hosting  a
 <img align="left" alt="aws" src="https://img.shields.io/badge/-vercel-%23000000?style=for-the-badge&logo=vercel&logoColor=%23FFFFFF" />
 
 <br>
+<br>
 
 ### More
 
@@ -84,6 +89,7 @@ I'm a coder with 6+ years of experience in fronend, backend, testing, hosting  a
 
 <img align="left" alt="aws" src="https://img.shields.io/badge/-google%20maps-%234285F4?style=for-the-badge&logo=Google%20Maps&logoColor=%23FFFFFF" />
 
+<br>
 <br>
 
 ## Other Activities :mailbox_with_mail:
