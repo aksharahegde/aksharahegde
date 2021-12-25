@@ -32,6 +32,8 @@ I'm a coder with 6+ years of experience in fronend, backend, testing, hosting  a
 
 
 <br>
+
+
 ### Backend
 
 <img align="left" alt="Django" src="https://img.shields.io/badge/-django-%23092E20?style=for-the-badge&logo=django&logoColor=%23FFFFFF" />
@@ -45,22 +47,29 @@ I'm a coder with 6+ years of experience in fronend, backend, testing, hosting  a
 <img align="left" alt="Jinja" src="https://img.shields.io/badge/-flask-%23000000?style=for-the-badge&logo=flask&logoColor=%23FFFFFF" />
 
 
+<br>
+
 ### Testing
 
 <img align="left" alt="Jinja" src="https://img.shields.io/badge/-selenium-%2343B02A?style=for-the-badge&logo=selenium&logoColor=%23FFFFFF" />
+
+<br>
 
 ### Content Management System
 <img align="left" alt="Jinja" src="https://img.shields.io/badge/-strapi-%232F2E8B?style=for-the-badge&logo=strapi&logoColor=%23FFFFFF" />
 
 <img align="left" alt="storyblok" src="https://img.shields.io/badge/-storyblok-%2309B3AF?style=for-the-badge&logo=storyblok&logoColor=%23FFFFFF" />
 
+<br>
+
 ### Databases
 <img align="left" alt="mysql" src="https://img.shields.io/badge/-mysql-%234479A1?style=for-the-badge&logo=MySQL&logoColor=%23FFFFFF" />
 
 <img align="left" alt="postgresql" src="https://img.shields.io/badge/-postgresql-%234169E1?style=for-the-badge&logo=postgresql&logoColor=%23FFFFFF" />
 
-### Hosting
 <br>
+
+### Hosting
 <img align="left" alt="aws" src="https://img.shields.io/badge/-aws-%23232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=%23FFFFFF" />
 
 <img align="left" alt="aws" src="https://img.shields.io/badge/-Google%20Cloud-%234285F4?style=for-the-badge&logo=GoogleCloud&logoColor=%23FFFFFF" />
@@ -68,13 +77,15 @@ I'm a coder with 6+ years of experience in fronend, backend, testing, hosting  a
 <img align="left" alt="aws" src="https://img.shields.io/badge/-vercel-%23000000?style=for-the-badge&logo=vercel&logoColor=%23FFFFFF" />
 
 <br>
+
 ### More
-<br>
+
 <img align="left" alt="aws" src="https://img.shields.io/badge/-flutter-%2302569B?style=for-the-badge&logo=flutter&logoColor=%23FFFFFF" />
 
 <img align="left" alt="aws" src="https://img.shields.io/badge/-google%20maps-%234285F4?style=for-the-badge&logo=Google%20Maps&logoColor=%23FFFFFF" />
 
 <br>
+
 ## Other Activities :mailbox_with_mail:
 
  BLOG [Hegde Heart Beats](https://hegdeheartbeats.weebly.com/)  :open_book:
