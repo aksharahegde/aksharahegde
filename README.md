@@ -29,6 +29,7 @@ I'm a coder with 6+ years of experience in fronend, backend, testing, hosting  a
 <img align="left" alt="angularjs" src="https://img.shields.io/badge/-jquery-%230769AD?style=for-the-badge&logo=jquery&logoColor=%23FFFFFF" />
 
 <br>
+<br>
 
 <img align="left" alt="tailwind css" src="https://img.shields.io/badge/-tailwindcss-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=%23FFFFFF" />
 
