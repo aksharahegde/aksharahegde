@@ -108,10 +108,6 @@
 <br>
 <br>
 
-## Other Activities :mailbox_with_mail:
-
- BLOG [Hegde Heart Beats](https://hegdeheartbeats.weebly.com/)  :open_book:
-
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=aksharahegde&theme=dracula&hide_border=true)
 
 <p align="center">
@@ -119,3 +115,8 @@
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aksharahegde&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="aksharahegde" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aksharahegde&theme=highcontrast&hide_border=true" alt="aksharahegde" />
 </p>
+
+
+## Other Activities :mailbox_with_mail:
+
+BLOG [Hegde Heart Beats](https://hegdeheartbeats.weebly.com/)  :open_book:
