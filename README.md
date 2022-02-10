@@ -102,3 +102,7 @@ I'm a coder with 6+ years of experience in fronend, backend, testing, hosting  a
  BLOG [Hegde Heart Beats](https://hegdeheartbeats.weebly.com/)  :open_book:
 
 <a href="https://app.daily.dev/aksharahegde"><img src="https://api.daily.dev/devcards/3702bd00bf734d519ad2bb9474bad4f9.png?r=mgr" width="400" alt="Akshara Hegde's Dev Card"/></a>
+
+# replace username with your own or change theme
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=aksharahegde&theme=dracula&hide_border=true)
+
