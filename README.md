@@ -102,10 +102,6 @@ Senior Fullstack Developer | Maintaining an open-source project [Django JET Calm
 <br>
 <br>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=aksharahegde&theme=dracula&hide_border=true)
-
-[Badge](https://app.codiga.io/hub/user/github/aksharahegde/assistant/badges/signup)
-
 <p align="center">
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=aksharahegde&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="aksharahegde" /> 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aksharahegde&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="aksharahegde" />
