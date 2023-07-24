@@ -18,21 +18,21 @@ Senior Fullstack Developer | Maintaining an open-source project [Django JET Calm
 
 ### Frontend
 
-<img align="left" alt="vuejs" src="https://img.shields.io/badge/-NUXT.JS-%2334495E?style=for-the-badge&logo=nuxt.js&logoColor=%2300DC82" />
+<img align="left" alt="nuxtjs" src="https://img.shields.io/badge/-NUXT.JS-%2334495E?style=for-the-badge&logo=nuxt.js&logoColor=%2300DC82" />
 
 <img align="left" alt="vuejs" src="https://img.shields.io/badge/-Vue.JS-%2334495E?style=for-the-badge&logo=vue.js&logoColor=%234FC08D" />
 
-<img align="left" alt="angularjs" src="https://img.shields.io/badge/-angular-%23FFFFFF?style=for-the-badge&logo=angular&logoColor=%23DD0031" />
+<img align="left" alt="angular" src="https://img.shields.io/badge/-angular-%23FFFFFF?style=for-the-badge&logo=angular&logoColor=%23DD0031" />
 
 <img align="left" alt="angularjs" src="https://img.shields.io/badge/-angularjs-%23DD1B16?style=for-the-badge&logo=angularjs&logoColor=%23FFFFFF" />
 
-<img align="left" alt="angularjs" src="https://img.shields.io/badge/-bootstrap-%237952B3?style=for-the-badge&logo=bootstrap&logoColor=%23FFFFFF" />
+<img align="left" alt="boostrap" src="https://img.shields.io/badge/-bootstrap-%237952B3?style=for-the-badge&logo=bootstrap&logoColor=%23FFFFFF" />
 
-<img align="left" alt="angularjs" src="https://img.shields.io/badge/-vuetify-%231867C0?style=for-the-badge&logo=vuetify&logoColor=%23FFFFFF" />
+<img align="left" alt="vuetify" src="https://img.shields.io/badge/-vuetify-%231867C0?style=for-the-badge&logo=vuetify&logoColor=%23FFFFFF" />
 
-<img align="left" alt="angularjs" src="https://img.shields.io/badge/-quasar-%231976D2?style=for-the-badge&logo=quasar&logoColor=%23FFFFFF" />
+<img align="left" alt="quasar" src="https://img.shields.io/badge/-quasar-%231976D2?style=for-the-badge&logo=quasar&logoColor=%23FFFFFF" />
 
-<img align="left" alt="angularjs" src="https://img.shields.io/badge/-jquery-%230769AD?style=for-the-badge&logo=jquery&logoColor=%23FFFFFF" />
+<img align="left" alt="jquery" src="https://img.shields.io/badge/-jquery-%230769AD?style=for-the-badge&logo=jquery&logoColor=%23FFFFFF" />
 
 <br>
 <br>
@@ -50,11 +50,11 @@ Senior Fullstack Developer | Maintaining an open-source project [Django JET Calm
 
 <img align="left" alt="Jinja" src="https://img.shields.io/badge/-jinja-%23B41717?style=for-the-badge&logo=jinja&logoColor=%23FFFFFF" />
 
-<img align="left" alt="Jinja" src="https://img.shields.io/badge/-nodejs-%23339933?style=for-the-badge&logo=node.js&logoColor=%23FFFFFF" />
+<img align="left" alt="nodejs" src="https://img.shields.io/badge/-nodejs-%23339933?style=for-the-badge&logo=node.js&logoColor=%23FFFFFF" />
 
-<img align="left" alt="Jinja" src="https://img.shields.io/badge/-nestjs-%23E0234E?style=for-the-badge&logo=nestjs&logoColor=%23FFFFFF" />
+<img align="left" alt="nestjs" src="https://img.shields.io/badge/-nestjs-%23E0234E?style=for-the-badge&logo=nestjs&logoColor=%23FFFFFF" />
 
-<img align="left" alt="Jinja" src="https://img.shields.io/badge/-flask-%23000000?style=for-the-badge&logo=flask&logoColor=%23FFFFFF" />
+<img align="left" alt="flask" src="https://img.shields.io/badge/-flask-%23000000?style=for-the-badge&logo=flask&logoColor=%23FFFFFF" />
 
 
 <br>
@@ -62,13 +62,13 @@ Senior Fullstack Developer | Maintaining an open-source project [Django JET Calm
 
 ### Testing
 
-<img align="left" alt="Jinja" src="https://img.shields.io/badge/-selenium-%2343B02A?style=for-the-badge&logo=selenium&logoColor=%23FFFFFF" />
+<img align="left" alt="selenium" src="https://img.shields.io/badge/-selenium-%2343B02A?style=for-the-badge&logo=selenium&logoColor=%23FFFFFF" />
 
 <br>
 <br>
 
 ### Content Management System
-<img align="left" alt="Jinja" src="https://img.shields.io/badge/-strapi-%232F2E8B?style=for-the-badge&logo=strapi&logoColor=%23FFFFFF" />
+<img align="left" alt="strapi" src="https://img.shields.io/badge/-strapi-%232F2E8B?style=for-the-badge&logo=strapi&logoColor=%23FFFFFF" />
 
 <img align="left" alt="storyblok" src="https://img.shields.io/badge/-storyblok-%2309B3AF?style=for-the-badge&logo=storyblok&logoColor=%23FFFFFF" />
 
@@ -86,18 +86,18 @@ Senior Fullstack Developer | Maintaining an open-source project [Django JET Calm
 ### Hosting
 <img align="left" alt="aws" src="https://img.shields.io/badge/-aws-%23232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=%23FFFFFF" />
 
-<img align="left" alt="aws" src="https://img.shields.io/badge/-Google%20Cloud-%234285F4?style=for-the-badge&logo=GoogleCloud&logoColor=%23FFFFFF" />
+<img align="left" alt="google cloud" src="https://img.shields.io/badge/-Google%20Cloud-%234285F4?style=for-the-badge&logo=GoogleCloud&logoColor=%23FFFFFF" />
 
-<img align="left" alt="aws" src="https://img.shields.io/badge/-vercel-%23000000?style=for-the-badge&logo=vercel&logoColor=%23FFFFFF" />
+<img align="left" alt="vercel" src="https://img.shields.io/badge/-vercel-%23000000?style=for-the-badge&logo=vercel&logoColor=%23FFFFFF" />
 
 <br>
 <br>
 
 ### More
 
-<img align="left" alt="aws" src="https://img.shields.io/badge/-flutter-%2302569B?style=for-the-badge&logo=flutter&logoColor=%23FFFFFF" />
+<img align="left" alt="flutter" src="https://img.shields.io/badge/-flutter-%2302569B?style=for-the-badge&logo=flutter&logoColor=%23FFFFFF" />
 
-<img align="left" alt="aws" src="https://img.shields.io/badge/-google%20maps-%234285F4?style=for-the-badge&logo=Google%20Maps&logoColor=%23FFFFFF" />
+<img align="left" alt="google maps" src="https://img.shields.io/badge/-google%20maps-%234285F4?style=for-the-badge&logo=Google%20Maps&logoColor=%23FFFFFF" />
 
 <br>
 <br>
