@@ -1,13 +1,7 @@
-<table>
- <tr>
-   <td valign="center">
-    <h1 align="center"> Hello, I'm Akshara Hegde 👋 </h1>
-    Senior Fullstack Developer | Maintaining Django JET Calm (Open-source project)
-    <td>
-     <a href="https://app.daily.dev/aksharahegde"><img src="https://api.daily.dev/devcards/3702bd00bf734d519ad2bb9474bad4f9.png?r=mgr" width="400" alt="Akshara Hegde's Dev Card"/></a>
-  </td>
-</tr>
-</table>
+Hello, I'm Akshara Hegde 👋
+
+Senior Fullstack Developer | Maintaining an open-source project [Django JET Calm](https://github.com/aksharahegde/django-jet-3-calm)
+
 
 
 ### Connect with me on
