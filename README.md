@@ -123,9 +123,6 @@ Maintaining an open-source project [Django JET Calm](https://github.com/aksharah
 </a>
 </p>
 
-[![aksharahegde's GitHub | Stats](https://stats.quine.sh/aksharahegde/github?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=aksharahegde)
-
-
 ## Other Activities :mailbox_with_mail:
 
 BLOG [Hegde Heart Beats](https://hegdeheartbeats.weebly.com/)  :open_book:
