@@ -1,6 +1,8 @@
 Hello, I'm Akshara Hegde 👋
 
-Senior Fullstack Developer | Maintaining an open-source project [Django JET Calm](https://github.com/aksharahegde/django-jet-3-calm)
+Senior Fullstack Developer | NUXT for life..
+Maintaining an open-source project [Django JET Calm](https://github.com/aksharahegde/django-jet-3-calm)
+Actively contributing to Nuxt modules
 
 
 
