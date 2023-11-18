@@ -1,9 +1,10 @@
 Hello, I'm Akshara Hegde 👋
 
-Senior Fullstack Developer | NUXT for life..
-Maintaining an open-source project [Django JET Calm](https://github.com/aksharahegde/django-jet-3-calm)
-Actively contributing to Nuxt modules
+Senior Fullstack Developer
 
+Maintaining an open-source project [Django JET Calm](https://github.com/aksharahegde/django-jet-3-calm)
+
+<img align="left" alt="nuxtjs" src="https://img.shields.io/badge/-NUXT.JS-%2334495E?style=flat&logo=nuxt.js&logoColor=%2300DC82" /> for Life
 
 
 ### Connect with me on
@@ -101,6 +102,8 @@ Actively contributing to Nuxt modules
 
 <img align="left" alt="google maps" src="https://img.shields.io/badge/-google%20maps-%234285F4?style=for-the-badge&logo=Google%20Maps&logoColor=%23FFFFFF" />
 
+<img align="left" alt="nuxtjs" src="https://img.shields.io/badge/-redis-%23d82c20?style=for-the-badge&logo=redis&logoColor=%23ffffff"/>
+
 <br>
 <br>
 
@@ -119,6 +122,8 @@ Actively contributing to Nuxt modules
   </picture>
 </a>
 </p>
+
+[![aksharahegde's GitHub | Stats](https://stats.quine.sh/aksharahegde/github?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=aksharahegde)
 
 
 ## Other Activities :mailbox_with_mail:
