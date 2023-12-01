@@ -23,6 +23,8 @@ Maintaining an open-source project [Django JET Calm](https://github.com/aksharah
 
 <img align="left" alt="nuxtjs" src="https://img.shields.io/badge/-NUXT.JS-%2334495E?style=for-the-badge&logo=nuxt.js&logoColor=%2300DC82" />
 
+<img align="left" alt="svelte" src="https://img.shields.io/badge/-svelte-%23FFFFFF?style=for-the-badge&logo=svelte&logoColor=%23ff4504" />
+
 <img align="left" alt="vuejs" src="https://img.shields.io/badge/-Vue.JS-%2334495E?style=for-the-badge&logo=vue.js&logoColor=%234FC08D" />
 
 <img align="left" alt="angular" src="https://img.shields.io/badge/-angular-%23FFFFFF?style=for-the-badge&logo=angular&logoColor=%23DD0031" />
