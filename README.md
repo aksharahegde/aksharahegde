@@ -124,6 +124,7 @@ Maintaining an open-source project [Django JET Calm](https://github.com/aksharah
   </picture>
 </a>
 </p>
+<a href="https://app.daily.dev/aksharahegde"><img src="https://api.daily.dev/devcards/3702bd00bf734d519ad2bb9474bad4f9.png?r=y2u" width="400" alt="Akshara Hegde's Dev Card"/></a>
 
 ## Other Activities :mailbox_with_mail:
 
