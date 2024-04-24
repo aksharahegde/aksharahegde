@@ -128,6 +128,8 @@ Maintaining an open-source project [Django JET Calm](https://github.com/aksharah
 </a>
 </p>
 <a href="https://app.daily.dev/aksharahegde"><img src="https://api.daily.dev/devcards/v2/x4tb84gUf38erON9MEevR.png?type=default&r=yzj" width="356" alt="Akshara Hegde's Dev Card"/></a>
+
+
 ## Other Activities :mailbox_with_mail:
 
 BLOG [Hegde Heart Beats](https://hegdeheartbeats.weebly.com/)  :open_book:
