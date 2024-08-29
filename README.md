@@ -6,6 +6,7 @@ Maintaining an open-source project [Django JET Calm](https://github.com/aksharah
 
 <img align="left" alt="nuxtjs" src="https://img.shields.io/badge/-NUXT.JS-%2334495E?style=flat&logo=nuxt.js&logoColor=%2300DC82" /> for Life
 
+[![aksharahegde Nuxter profile](https://nuxters.nuxt.com/card/aksharahegde/og.png)](https://nuxters.nuxt.com/aksharahegde)
 
 ### Connect with me on
 
