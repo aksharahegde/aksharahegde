@@ -116,16 +116,6 @@ Maintaining an open-source project [Django JET Calm](https://github.com/aksharah
 <p align="left">
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=aksharahegde&show_icons=true&theme=tokyonight&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="aksharahegde" /> 
       <a href="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?user_id=22255990&period=all_times" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=22255990&period=all_times&image_size=auto&color_scheme=dark" width="728" height="auto">
-    <img alt="Contribution Time Distribution of @aksharahegde" src="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=22255990&period=all_times&image_size=auto&color_scheme=light" width="728" height="auto">
-  </picture>
-</a>
-      <a href="https://next.ossinsight.io/widgets/official/compose-currently-working-on?user_id=22255990&activity_type=all" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=22255990&activity_type=all&image_size=auto&color_scheme=dark" width="504.5" height="auto">
-    <img alt="@aksharahegde's Recent Work - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=22255990&activity_type=all&image_size=auto&color_scheme=light" width="504.5" height="auto">
-  </picture>
 </a>
 </p>
 <a href="https://app.daily.dev/aksharahegde"><img src="https://api.daily.dev/devcards/v2/x4tb84gUf38erON9MEevR.png?type=default&r=yzj" width="356" alt="Akshara Hegde's Dev Card"/></a>
@@ -133,4 +123,4 @@ Maintaining an open-source project [Django JET Calm](https://github.com/aksharah
 
 ## Other Activities :mailbox_with_mail:
 
-BLOG [Hegde Heart Beats](https://hegdeheartbeats.weebly.com/)  :open_book:
+BLOG [Hegde Heart Beats](https://http://ink.aksharahegde.xyz)  :open_book:
