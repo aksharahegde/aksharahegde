@@ -2,9 +2,11 @@ Hello, I'm Akshara Hegde 👋
 
 Senior Fullstack Developer
 
-Maintaining an open-source project [Django JET Calm](https://github.com/aksharahegde/django-jet-3-calm)
+Maintaining [Django JET Calm](https://github.com/aksharahegde/django-jet-3-calm)
 
-<img align="left" alt="nuxtjs" src="https://img.shields.io/badge/-NUXT.JS-%2334495E?style=flat&logo=nuxt.js&logoColor=%2300DC82" /> for Life
+<img align="left" alt="nuxtjs" src="https://img.shields.io/badge/-NUXT.JS-%2334495E?style=flat&logo=nuxt.js&logoColor=%2300DC82" />for Life
+
+[![AI Manifesto Signee](https://ai-manifesto.dev/badge.svg)](https://ai-manifesto.dev)
 
 [![aksharahegde Nuxter profile](https://nuxters.nuxt.com/card/aksharahegde/og.png)](https://nuxters.nuxt.com/aksharahegde)
 
@@ -118,8 +120,6 @@ Maintaining an open-source project [Django JET Calm](https://github.com/aksharah
       <a href="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?user_id=22255990&period=all_times" target="_blank" style="display: block" align="center">
 </a>
 </p>
-<a href="https://app.daily.dev/aksharahegde"><img src="https://api.daily.dev/devcards/v2/x4tb84gUf38erON9MEevR.png?type=default&r=yzj" width="356" alt="Akshara Hegde's Dev Card"/></a>
-
 
 ## Other Activities :mailbox_with_mail:
 
