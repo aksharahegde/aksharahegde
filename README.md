@@ -8,8 +8,6 @@ Maintaining [Django JET Calm](https://github.com/aksharahegde/django-jet-3-calm)
 
 [![AI Manifesto Signee](https://ai-manifesto.dev/badge.svg)](https://ai-manifesto.dev)
 
-[![aksharahegde Nuxter profile](https://nuxters.nuxt.com/card/aksharahegde/og.png)](https://nuxters.nuxt.com/aksharahegde)
-
 ### Connect with me on
 
 [<img align="left" alt="X" src="https://img.shields.io/badge/-linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=%23FFFFFF"
