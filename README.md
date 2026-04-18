@@ -28,6 +28,32 @@ Maintaining [Django JET Calm](https://github.com/aksharahegde/django-jet-3-calm)
 </a>
 </p>
 
+## Repositories
+
+### Author
+
+- [Pahachaan](https://github.com/aksharahegde/pahachaan) - Opensource portfolio template using Nuxt 4 with Nuxt Studio support
+- [YuktiMail - AI-first Gmail Client](https://github.com/aksharahegde/ai-email) - YuktiMail is an open-source, AI-first Gmail client that turns long email threads into actionable context. Instead of reading everything line-by-line, you get summaries, tasks, and decisions extracted automatically, plus an AI chat for deeper questions.
+- [Ink](https://github.com/aksharahegde/ink) - A template to showcase your books or stories
+- [Django JET Calm](https://github.com/aksharahegde/django-jet-3-calm) - Modern responsive template for the Django admin interface with improved functionality.
+- [Crawlboy](https://github.com/aksharahegde/crawlboy) - Sequentially crawls every URL from a sitemap
+- [Nuxt Glow](https://github.com/aksharahegde/nuxt-glow) - Add a mouse-tracing glow effect to Nuxt components
+- [Vue Glow](https://github.com/aksharahegde/vue-glow) - Add a mouse-tracing glow effect to Vue components
+- [manrust](https://github.com/aksharahegde/manrust) - A TUI tool to built in rust to view man pages
+- [Specra](https://github.com/aksharahegde/quality-flow) - Specra is a spec-driven test suite platform.
+- [TraveliterAI](https://github.com/aksharahegde/TraveliterAI) - Free travel planner app from source to destinations and back to source
+- [Supasync](https://github.com/aksharahegde/supasync) - One-way sync from Obsidian vault to Supabase
+- [Spear Flight](https://github.com/aksharahegde/spear-flight) - Simulation of spear with multiple factor tweaking
+
+### Contributor
+
+- [Hawa](https://github.com/aksharahegde/hawa) - A simple white noise app which sits in the menubar
+- [Django Auditlog](https://github.com/aksharahegde/django-audit-log) - Audit log for your Django models
+- [Animated Lucide Vue](https://github.com/aksharahegde/animated-lucide-vue) - Animated Lucide Icons for vue using the new motion-vue library
+- [Nuxt Auth Utils](https://github.com/aksharahegde/nuxt-auth-utils) - Minimal Auth module for Nuxt 3
+- [UnJS Website](https://github.com/aksharahegde/unjs-website) - UnJS website Content and Design!
+
+
 ## Other Activities :mailbox_with_mail:
 
 BLOG [Hegde Heart Beats](https://http://ink.aksharahegde.xyz)  :open_book:
