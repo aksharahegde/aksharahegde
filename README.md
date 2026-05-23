@@ -40,6 +40,7 @@ Maintaining [Django JET Calm](https://github.com/aksharahegde/django-jet-3-calm)
 - [Nuxt Glow](https://github.com/aksharahegde/nuxt-glow) - Add a mouse-tracing glow effect to Nuxt components
 - [Vue Glow](https://github.com/aksharahegde/vue-glow) - Add a mouse-tracing glow effect to Vue components
 - [manrust](https://github.com/aksharahegde/manrust) - A TUI tool to built in rust to view man pages
+- [EasyNPM](https://github.com/aksharahegde/easynpm) - A modern minimal UI for searching node packages built using npm registry API
 - [Specra](https://github.com/aksharahegde/quality-flow) - Specra is a spec-driven test suite platform.
 - [TraveliterAI](https://github.com/aksharahegde/TraveliterAI) - Free travel planner app from source to destinations and back to source
 - [Supasync](https://github.com/aksharahegde/supasync) - One-way sync from Obsidian vault to Supabase
