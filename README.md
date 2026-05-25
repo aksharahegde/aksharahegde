@@ -40,6 +40,14 @@ Maintaining [Django JET Calm](https://github.com/aksharahegde/django-jet-3-calm)
 - [Supasync](https://github.com/aksharahegde/supasync) - One-way sync from Obsidian vault to Supabase
 - [Spear Flight](https://github.com/aksharahegde/spear-flight) - Simulation of spear with multiple factor tweaking
 - [ThreatPkg](https://github.com/aksharahegde/threatpkg) - Public realtime dashboard for open-source package threat intelligence across npm, PyPI, Go, crates.io, Maven, NuGet, RubyGems, Packagist, and Pub
+- [Remindsub](https://github.com/aksharahegde/remindsub) - An application designed to track your subscriptions of various services.
+- [Mymemoirs](https://github.com/aksharahegde/mymemoirs) - Craft your personal online journal, fully customizable to your preferences.
+- [USB Tressa](https://github.com/aksharahegde/usb-tressa) - Interactive USB connector showcase built with Nuxt and TresJS
+- [Message Injector](https://github.com/aksharahegde/message-injector) - A lightweight JavaScript library for effortlessly injecting message component into your web application.
+- [Simpleposty](https://github.com/aksharahegde/simpleposty) - Create beautiful social media image with just a few clicks for free
+- [Nuxt Module Banner](https://github.com/aksharahegde/nuxt-module-banner) - Create official banner for your nuxt modules
+- [Mastishk](https://github.com/aksharahegde/mastishk) - ai in your menu bar
+- [Spaceadri](https://github.com/aksharahegde/spaceadri) - Information about the planets, the sun and the moon.
 
 ### Contributor
 
