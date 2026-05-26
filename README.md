@@ -60,4 +60,4 @@ Maintaining [Django JET Calm](https://github.com/aksharahegde/django-jet-3-calm)
 
 ## Other Activities :mailbox_with_mail:
 
-BLOG [Hegde Heart Beats](https://http://ink.aksharahegde.xyz)  :open_book:
+BLOG [Hegde Heart Beats](https://ink.aksharahegde.xyz)  :open_book:
