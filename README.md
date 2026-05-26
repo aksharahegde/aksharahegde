@@ -39,7 +39,7 @@ Maintaining [Django JET Calm](https://github.com/aksharahegde/django-jet-3-calm)
 - [TraveliterAI](https://github.com/aksharahegde/TraveliterAI) - Free travel planner app from source to destinations and back to source
 - [Supasync](https://github.com/aksharahegde/supasync) - One-way sync from Obsidian vault to Supabase
 - [Spear Flight](https://github.com/aksharahegde/spear-flight) - Simulation of spear with multiple factor tweaking
-- [ThreatPkg](https://github.com/aksharahegde/threatpkg) - Public realtime dashboard for open-source package threat intelligence across npm, PyPI, Go, crates.io, Maven, NuGet, RubyGems, Packagist, and Pub
+- [threat-pkg](https://tpkg.akshara.dev) - A public threat intelligence dashboard for npm, PyPI, Go, Rust (crates.io), Java (Maven), .NET (NuGet), RubyGems, PHP/Laravel (Packagist), and Dart/Flutter (pub.dev): compromised packages, malicious releases, and advisory identifiers (CVE, GHSA, OSV) in one searchable feed
 - [Remindsub](https://github.com/aksharahegde/remindsub) - An application designed to track your subscriptions of various services.
 - [Mymemoirs](https://github.com/aksharahegde/mymemoirs) - Craft your personal online journal, fully customizable to your preferences.
 - [USB Tressa](https://github.com/aksharahegde/usb-tressa) - Interactive USB connector showcase built with Nuxt and TresJS
