@@ -28,7 +28,7 @@ Maintaining [Django JET Calm](https://github.com/aksharahegde/django-jet-3-calm)
 
 - [Pahachaan](https://github.com/aksharahegde/pahachaan) - Opensource portfolio template using Nuxt 4 with Nuxt Studio support
 - [Rydsta](https://github.com/aksharahegde/rydsta) - Turn your trip exports into a visual ride story, 100% in your browser.
-- [YuktiMail - AI-first Gmail Client](https://github.com/aksharahegde/ai-email) - YuktiMail is an open-source, AI-first Gmail client that turns long email threads into actionable context. Instead of reading everything line-by-line, you get summaries, tasks, and decisions extracted automatically, plus an AI chat for deeper questions.
+- [YuktiMail - AI-first Gmail Client](https://github.com/aksharahegde/ai-email) - AI-first Gmail client that turns long email threads into actionable context.
 - [Ink](https://github.com/aksharahegde/ink) - A template to showcase your books or stories
 - [Django JET Calm](https://github.com/aksharahegde/django-jet-3-calm) - Modern responsive template for the Django admin interface with improved functionality.
 - [Crawlboy](https://github.com/aksharahegde/crawlboy) - Sequentially crawls every URL from a sitemap
@@ -40,7 +40,7 @@ Maintaining [Django JET Calm](https://github.com/aksharahegde/django-jet-3-calm)
 - [TraveliterAI](https://github.com/aksharahegde/TraveliterAI) - Free travel planner app from source to destinations and back to source
 - [Supasync](https://github.com/aksharahegde/supasync) - One-way sync from Obsidian vault to Supabase
 - [Spear Flight](https://github.com/aksharahegde/spear-flight) - Simulation of spear with multiple factor tweaking
-- [threat-pkg](https://tpkg.akshara.dev) - A public threat intelligence dashboard for npm, PyPI, Go, Rust (crates.io), Java (Maven), .NET (NuGet), RubyGems, PHP/Laravel (Packagist), and Dart/Flutter (pub.dev): compromised packages, malicious releases, and advisory identifiers (CVE, GHSA, OSV) in one searchable feed
+- [threat-pkg](https://tpkg.akshara.dev) - A public threat intelligence dashboard for compromised packages, malicious releases, and advisory identifiers (CVE, GHSA, OSV) in one searchable feed
 - [Remindsub](https://github.com/aksharahegde/remindsub) - An application designed to track your subscriptions of various services.
 - [Mymemoirs](https://github.com/aksharahegde/mymemoirs) - Craft your personal online journal, fully customizable to your preferences.
 - [USB Tressa](https://github.com/aksharahegde/usb-tressa) - Interactive USB connector showcase built with Nuxt and TresJS
