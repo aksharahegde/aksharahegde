@@ -28,7 +28,7 @@ Maintaining [Django JET Calm](https://github.com/aksharahegde/django-jet-3-calm)
 
 - [Pahachaan](https://github.com/aksharahegde/pahachaan) - Opensource portfolio template using Nuxt 4 with Nuxt Studio support
 - [Rydsta](https://github.com/aksharahegde/rydsta) - Turn your trip exports into a visual ride story, 100% in your browser.
-- [YuktiMail - AI-first Gmail Client](https://github.com/aksharahegde/ai-email) - AI-first Gmail client that turns long email threads into actionable context.
+- [YuktiMail](https://github.com/aksharahegde/ai-email) - AI-first Gmail client that turns long email threads into actionable context.
 - [Ink](https://github.com/aksharahegde/ink) - A template to showcase your books or stories
 - [Django JET Calm](https://github.com/aksharahegde/django-jet-3-calm) - Modern responsive template for the Django admin interface with improved functionality.
 - [Crawlboy](https://github.com/aksharahegde/crawlboy) - Sequentially crawls every URL from a sitemap
