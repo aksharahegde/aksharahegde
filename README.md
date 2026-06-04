@@ -27,6 +27,7 @@ Maintaining [Django JET Calm](https://github.com/aksharahegde/django-jet-3-calm)
 ### Author
 
 - [Pahachaan](https://github.com/aksharahegde/pahachaan) - Opensource portfolio template using Nuxt 4 with Nuxt Studio support
+- [BW Player](https://github.com/aksharahegde/bw-player) - A calm, monochrome Flutter music player for Last.fm, Audius, and Jamendo
 - [Rydsta](https://github.com/aksharahegde/rydsta) - Turn your trip exports into a visual ride story, 100% in your browser.
 - [YuktiMail](https://github.com/aksharahegde/ai-email) - AI-first Gmail client that turns long email threads into actionable context.
 - [Ink](https://github.com/aksharahegde/ink) - A template to showcase your books or stories
