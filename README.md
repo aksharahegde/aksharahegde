@@ -1,8 +1,8 @@
 # Akshara Hegde
 
-Senior Fullstack Developer
+Senior Full-Stack Engineer | Nuxt, Python & AI | Open Source Maintainer ([Django JET Calm](https://github.com/aksharahegde/django-jet-3-calm)) | Building Scalable AI-Powered Apps
 
-[Portfolio](https://akshara.dev) · [LinkedIn](https://www.linkedin.com/in/aksharadt/) · [X](https://twitter.com/akshara_dev) · [Peerlist](https://peerlist.io/akshara)
+[My Digital Sandbox](https://akshara.dev) · [LinkedIn](https://www.linkedin.com/in/aksharadt/) · [X](https://twitter.com/akshara_dev) · [Peerlist](https://peerlist.io/akshara)
 
 ## Repositories
 
