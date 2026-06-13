@@ -9,6 +9,8 @@ Senior Full-Stack Engineer | Nuxt, Python & AI | Open Source Maintainer ([Django
 ### Author
 
 - [Pahachaan](https://github.com/aksharahegde/pahachaan) - Opensource portfolio template using Nuxt 4 with Nuxt Studio support
+- [Stateful Browser Agent](https://github.com/aksharahegde/stateful-browser-agent) - A stateful Cloudflare Worker based browser agent
+- [Browser Agent Companion](https://github.com/aksharahegde/browser-agent-companion) - Mac menu-bar companion that bridges local desktop capabilities to the Cloudflare Stateful Browser Agent
 - [RSS Herald](https://herald.akshara.dev) - A newspaper-style RSS feed reader with customizable reading themes and browser text-to-speech
 - [BW Player](https://github.com/aksharahegde/bw-player) - A calm, monochrome Flutter music player for Last.fm, Audius, and Jamendo with AI Smart Mix
 - [Rydsta](https://github.com/aksharahegde/rydsta) - Turn your trip exports into a visual ride story, 100% in your browser.
