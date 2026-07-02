@@ -9,6 +9,7 @@ Senior Full-Stack Engineer | Nuxt, Python & AI | Open Source Maintainer ([Django
 ### Author
 
 - [KickDNA](https://www.kickdna.com) - AI-powered FIFA World Cup personality quiz that matches you to a national team.
+- [Monochrome](https://dub.sh/monochr) - A Glaze desktop app that converts photos to black and white with smart contrast, dynamic range optimization, shadow enhancement, and optional Claude fine-tuning.
 - [Pahachaan](https://github.com/aksharahegde/pahachaan) - Opensource portfolio template using Nuxt 4 with Nuxt Studio support
 - [Stateful Browser Agent](https://github.com/aksharahegde/stateful-browser-agent) - A stateful Cloudflare Worker based browser agent
 - [Browser Agent Companion](https://github.com/aksharahegde/browser-agent-companion) - Mac menu-bar companion that bridges local desktop capabilities to the Cloudflare Stateful Browser Agent
