@@ -1,6 +1,6 @@
 # Akshara Hegde
 
-Senior Full-Stack Engineer | Nuxt, Python & AI | Open Source Maintainer ([Django JET Calm](https://github.com/aksharahegde/django-jet-3-calm)) | Building Scalable AI-Powered Apps
+Senior Full-Stack Engineer @DecisionFoundry | Open Source Maintainer ([Django JET Calm](https://github.com/aksharahegde/django-jet-3-calm)) | Building Scalable AI-Powered Apps
 
 [My Digital Sandbox](https://akshara.dev) · [LinkedIn](https://www.linkedin.com/in/aksharadt/) · [X](https://twitter.com/akshara_dev) · [Peerlist](https://peerlist.io/akshara)
 
@@ -46,3 +46,12 @@ Senior Full-Stack Engineer | Nuxt, Python & AI | Open Source Maintainer ([Django
 - [Animated Lucide Vue](https://github.com/aksharahegde/animated-lucide-vue) - Animated Lucide Icons for vue using the new motion-vue library
 - [Nuxt Auth Utils](https://github.com/aksharahegde/nuxt-auth-utils) - Minimal Auth module for Nuxt 3
 - [UnJS Website](https://github.com/aksharahegde/unjs-website) - UnJS website Content and Design!
+
+<div align="center">
+  <a href="https://commit-history.com/aksharahegde">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/aksharahegde?theme=dark" />
+      <img alt="aksharahegde's commit history" src="https://commit-history.com/embed/aksharahegde" />
+    </picture>
+  </a>
+</div>
