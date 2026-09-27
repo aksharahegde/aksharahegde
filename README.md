@@ -7,7 +7,7 @@ Senior Full-Stack Engineer @DecisionFoundry | Open Source Maintainer ([Django JE
 ## Repositories
 
 ### Author
-
+- [GPU Components](https://gpuc.akshara.dev) - Open-source GPU-accelerated component library for React, in the spirit of shadcn/ui
 - [KickDNA](https://www.kickdna.com) - AI-powered FIFA World Cup personality quiz that matches you to a national team.
 - [Monochrome](https://dub.sh/monochr) - A Glaze desktop app that converts photos to black and white with smart contrast, dynamic range optimization, shadow enhancement, and optional Claude fine-tuning.
 - [Wolog](https://www.glaze.app/app/wolog-bDdnf8) - A keyboard-first macOS menu bar app that remembers what you're working on and builds a timeline for your timesheet.
