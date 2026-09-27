@@ -2,7 +2,7 @@
 
 Senior Full-Stack Engineer @DecisionFoundry | Open Source Maintainer ([Django JET Calm](https://github.com/aksharahegde/django-jet-3-calm)) | Building Scalable AI-Powered Apps
 
-[My Digital Sandbox](https://akshara.dev) · [LinkedIn](https://www.linkedin.com/in/aksharadt/) · [X](https://twitter.com/akshara_dev) · [Peerlist](https://peerlist.io/akshara)
+[My Digital Sandbox](https://akshara.dev) · [LinkedIn](https://www.linkedin.com/in/aksharadt/) · [X](https://twitter.com/akshara_dev) · [Peerlist](https://peerlist.io/akshara) · [Youtube](https://www.youtube.com/@akshara_dev)
 
 ## Repositories
 
