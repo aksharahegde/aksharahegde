@@ -7,6 +7,7 @@ Senior Full-Stack Engineer @DecisionFoundry | Open Source Maintainer ([Django JE
 ## Repositories
 
 ### Author
+- [Robot Heads Vue](https://robot-heads-vue.akshara-dt.workers.dev/) - Vue 3 port of robot-heads: animated 3D TV-headed robots with LED faces, drawn on a 2D canvas
 - [GPU Components](https://gpuc.akshara.dev) - Open-source GPU-accelerated component library for React, in the spirit of shadcn/ui
 - [KickDNA](https://www.kickdna.com) - AI-powered FIFA World Cup personality quiz that matches you to a national team.
 - [Monochrome](https://dub.sh/monochr) - A Glaze desktop app that converts photos to black and white with smart contrast, dynamic range optimization, shadow enhancement, and optional Claude fine-tuning.
